@@ -11,7 +11,7 @@ module.exports = {
             name: "host-para-midnight",
             filename: "remoteEntry.js",
             remotes: {
-                Midnight: "Midnight@https://rd-latam.cognizantsoftvision.com/carnival/cwc/remoteEntry.js"
+                Midnight: "Midnight@https://rd-latam.cognizantsoftvision.com/midnight/cwc/remoteEntry.js"
             }
         })
     ]
